@@ -1,0 +1,88 @@
+
+.container-flex{
+    background-color: white;
+    color: black;
+    margin-bottom: -0.5rem;
+    text-align: center;
+   
+}
+
+.main{
+    width: 100vw;
+    height: 30vh;
+}
+
+.container2{
+    text-align: center;
+}
+
+
+
+
+   
+.youtube{
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    
+}   
+.logo1{
+    text-align: center;
+}
+
+.logo1>img{
+    padding-left: 45%;
+}
+
+.image4{
+
+    margin-top: -0.5rem;
+
+}
+
+#content h1{
+   
+    text-align: center;
+    margin-top: 3rem;
+    justify-content: center;
+  
+   
+}
+
+#upperpara{
+
+display:flex;
+justify-content: center;
+}
+
+#middlepara{
+    
+display:flex;
+justify-content: center;
+margin-top: 6rem;
+margin-right: 3rem ;
+}
+
+#lowerpara{
+   
+    display: flex;   
+    flex-direction: row;
+   
+    
+}
+
+.image1{
+    
+   width: 499px;
+   height: 44vh;
+}
+
+footer{
+    background-color:orangered;
+    color: white;
+   text-align: center;
+   position: fixed;
+   bottom: 0;
+   padding-bottom: -1rem;
+   width: 100%;
+}

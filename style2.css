@@ -1,0 +1,35 @@
+.container{ 
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+   
+}
+body{
+    background-image: url(./bg8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+.container-flex{
+    background-color: white;
+    color: black;
+    margin-bottom: -0.5rem;
+    text-align: center;
+
+}
+
+footer{
+    background-color: orangered;
+    color: black;
+   text-align: center;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
